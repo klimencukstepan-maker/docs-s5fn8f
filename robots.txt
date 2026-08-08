@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-r7jrhh.juragan89.online/sitemap.xml
